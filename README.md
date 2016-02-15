@@ -1,16 +1,18 @@
 # structure_base
 
 
-Une fois le git clone effectue il ne vous reste plus qu'a ecrire : "npm install" dans votre dossier.
+Une fois le git clone effectue il  vous reste a ecrire : "$ npm install" dans votre dossier.
 
-Les scripts sont en commentaires, il vous suffit d'utiliser ce que vous voulait.
 
-# Installation de gulp/sass
+#### Installation de gulp/sass
 
 $ npm install --g gulp browser-sync
+
 $ npm install --save-dev gulp-sass
 
-#Lancement
+Les scripts sont en commentaires, il vous suffit d'utiliser ceux que vous voulait.
+
+####Lancement
 
 $ gulp serve
 et voilà !
